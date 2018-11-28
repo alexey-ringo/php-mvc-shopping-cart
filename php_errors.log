@@ -1,0 +1,36 @@
+[22-Nov-2018 13:26:48 UTC] PHP Warning:  require(application/lib/Dev.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:26:48 UTC] PHP Stack trace:
+[22-Nov-2018 13:26:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:26:48 UTC] PHP Fatal error:  require(): Failed opening required 'application/lib/Dev.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:26:48 UTC] PHP Stack trace:
+[22-Nov-2018 13:26:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:30:18 UTC] PHP Warning:  require(application/lib/Dev.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:30:18 UTC] PHP Stack trace:
+[22-Nov-2018 13:30:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:30:18 UTC] PHP Fatal error:  require(): Failed opening required 'application/lib/Dev.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:30:18 UTC] PHP Stack trace:
+[22-Nov-2018 13:30:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:30:23 UTC] PHP Warning:  require(application/lib/Dev.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:30:23 UTC] PHP Stack trace:
+[22-Nov-2018 13:30:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:30:23 UTC] PHP Fatal error:  require(): Failed opening required 'application/lib/Dev.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:30:23 UTC] PHP Stack trace:
+[22-Nov-2018 13:30:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:32:34 UTC] PHP Warning:  require(application/lib/Dev.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:32:34 UTC] PHP Stack trace:
+[22-Nov-2018 13:32:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:32:34 UTC] PHP Fatal error:  require(): Failed opening required 'application/lib/Dev.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:32:34 UTC] PHP Stack trace:
+[22-Nov-2018 13:32:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:32:35 UTC] PHP Warning:  require(application/lib/Dev.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:32:35 UTC] PHP Stack trace:
+[22-Nov-2018 13:32:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:32:35 UTC] PHP Fatal error:  require(): Failed opening required 'application/lib/Dev.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:32:35 UTC] PHP Stack trace:
+[22-Nov-2018 13:32:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:39:25 UTC] PHP Warning:  require(application/lib/Dev.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:39:25 UTC] PHP Stack trace:
+[22-Nov-2018 13:39:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[22-Nov-2018 13:39:25 UTC] PHP Fatal error:  require(): Failed opening required 'application/lib/Dev.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[22-Nov-2018 13:39:25 UTC] PHP Stack trace:
+[22-Nov-2018 13:39:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
